@@ -16,6 +16,8 @@ description: A reprint of the Greenaway A B C book, with the original quaint ill
   in color, which first appeared in the 19th century. "An A B C book in which little
   girls in quaint frilled dresses with flowing sashes, and little boys in long breeches,
   merrily demolish A--apple pie."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15809#A-Apple-Pie
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-05-10'
 gutenberg_type: Text
