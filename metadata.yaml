@@ -1,0 +1,35 @@
+_repo: A-Apple-Pie_15809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+description: A reprint of the Greenaway A B C book, with the original quaint illustrations
+  in color, which first appeared in the 19th century. "An A B C book in which little
+  girls in quaint frilled dresses with flowing sashes, and little boys in long breeches,
+  merrily demolish A--apple pie."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Alphabet rhymes'
+- !lcc 'PZ'
+- !lcsh 'Alphabet'
+title: A Apple Pie
+url: http://www.gutenberg.org/ebooks/15809
